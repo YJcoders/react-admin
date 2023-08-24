@@ -2,7 +2,9 @@ import { Layout } from "antd";
 
 const Main = () => {
   return (
-    <div>ewew</div>
+    <Layout>
+      <div>ewew</div>
+    </Layout>
   )
 }
 
